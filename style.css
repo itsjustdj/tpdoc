@@ -18,7 +18,7 @@ body {
     background-color: #9e6cf5;
     color: white;
     padding-right: 20px;
-    box-shadow: 0px 0px 3px 1px grey;
+    /* box-shadow: 0px 0px 3px 1px #9e6cf5; */
   }
   
   @media (max-width: 800px) {
